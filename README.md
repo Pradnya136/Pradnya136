@@ -17,9 +17,13 @@
 - 📫 How to reach me **pradnyasonawane133@gmail.com**
 
 - ⚡ Fun fact **I am Pro COD player too**😎🔫
-
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/pradnya-sonawane-35191990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pradnya-sonawane-35191990" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@pradnya133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pradnya133" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pspradnya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pspradnya" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pradnyasonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pradnyasonawane" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pradnyasonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pradnyasonawane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
