@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Pradnya Sonawane</h1>
+<h1 align="center">Hello there👋, I'm Pradnya Sonawane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
