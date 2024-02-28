@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [react food delivery app project](hthttps://fs-foodstore.netlify.app/)
 
-- 🌱 I’m currently learning **React.js framework**
+- 🌱 I’m currently learning **React.js library**
 
 - 👯 I’m looking to collaborate on **frontend projects right now**
 
